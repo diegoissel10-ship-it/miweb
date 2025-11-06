@@ -1,0 +1,425 @@
+ header{
+
+ 
+
+ top: 100px;
+
+ left: 0%;
+
+ width: 1590px;;
+
+ height: 120px;
+
+ background-color: rgb(255, 255, 255);
+
+ }
+
+ nav{
+
+ top: 120px;
+
+ left: 0%;
+
+ width:100%;
+
+ height: 20px;
+
+ background-color: hwb(187 31% 40%);
+
+ position: absolute;
+
+ z-index: 5;
+
+ 
+
+ 
+
+ 
+
+ }
+
+ aside{
+
+ top: 140px;
+
+ left: 0px;
+
+ width: 220px;
+
+ height: 500px;
+
+ background-color: lab(48.22% -20.05 -16.16);
+
+ position: absolute;
+
+ 
+
+ }
+
+ footer{
+
+ top: 590px;
+
+ left: 0px;
+
+ 
+
+ height: 35px;
+
+ background-color: lch(48.39% 27.14 159.36);
+
+ position: absolute;
+
+ width: 1350px;
+
+ z-index: 6;
+
+ text-align: center;
+
+ }
+
+
+
+ #titulo {
+
+ top: 0px;
+
+ height: 120px;
+
+ width: 1400px;
+
+ right: 0px;
+
+ background-color: #2196F3;
+
+ position:absolute;
+
+
+
+ letter-spacing: 40px;
+
+
+
+ }
+
+ #ingreso{
+
+
+
+ top: 0px;
+
+ height: 150px;
+
+ width: 200px;
+
+ right: 0px;
+
+ position: absolute;
+
+ background-color: #428397;
+
+ z-index: 15;
+
+border-radius: 7px;
+
+padding: 25px;
+
+ }
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+ #titulo1{
+
+background-color: #2196F3;
+
+position:absolute;
+
+z-index: 5;
+
+top: 0px;
+
+height: 100px;
+
+width: 400px;
+
+right: 360px;
+
+
+
+ }
+
+
+
+#liceo31{
+
+ top: 0px;
+
+height: 120px;
+
+width: 220px;
+
+position: absolute;
+
+
+
+.section2{
+
+ position: absolute;
+
+ top: 120px;
+
+ right: 0px;
+
+ width: 1328px;
+
+ height: 400px;
+
+
+
+}
+
+.section3{
+
+ position: absolute;
+
+ top: 120px;
+
+ right: 0px;
+
+ width: 1328px;
+
+ height: 400px;
+
+
+
+}
+
+
+
+
+z-index: 10;
+
+left: 0px;
+
+}
+
+ul {
+
+ top: 105px;
+
+display: flex;
+
+list-style-type:none;
+
+gap: 40px;
+
+cursor: pointer;
+
+position: absolute;
+
+right: 515px;
+
+z-index: 10;
+
+}
+
+li{
+
+background-color: hsl(197, 45%, 53%);
+
+
+
+}
+
+li:hover{
+
+background-color: hsl(197, 45%, 53%);
+
+color: #ffffff;
+
+}
+
+.gallery{
+
+ left: 200px;
+
+top: 70px;
+
+position: absolute;
+
+gap: 12px;
+
+display:grid;
+
+grid-template-columns: repeat(5,2fr);
+
+width:100px;
+
+height: 100px;
+
+left: 10px;
+
+}
+
+.gallery img{
+
+
+
+ width: 200px;
+
+ height: 180px;
+
+ border-radius: 7px;
+
+ 
+
+}
+
+#boton{
+
+ background-color: hsl(150, 85%, 43%);
+
+}
+
+#usuario{
+
+
+
+ background-color: hsl(194, 51%, 69%);
+
+}
+
+#contraseña{
+
+
+
+ background-color: hsl(194, 51%, 69%);;
+
+} 
+
+ #Galeria{
+
+ position: absolute;
+
+ top: 140px;
+
+ right: 0px;
+
+ width:  1133px;
+
+ height: 500px;
+
+ background-color: lab(35.49% -3.92 -31.75);
+
+z-index: 5;
+
+
+ }
+
+#Historia{
+
+ position: absolute;
+
+ top: 140px;
+
+ right: 0px;
+
+ width:  1133px;
+
+ height: 500px;
+
+ background-color: lab(35.49% -3.92 -31.75);
+
+
+z-index: 5;
+}
+
+
+
+
+
+
+#Contacto{
+
+ position: absolute;
+
+ top: 140px;
+
+ right: 0px;
+
+ width:   1133px;
+
+ height: 500px;
+
+ background-color: lab(35.49% -3.92 -31.75);
+
+ z-index: 5;
+ 
+
+}
+
+
+
+.setion1{
+
+ position: absolute;
+
+ top: 100px;
+
+ right: 0px;
+
+ width: 1200px;
+
+ height: 480px;
+
+z-index: 4;
+
+
+
+}
+
+
+
+#tapa{
+
+ position: absolute;
+
+background-color: rgba(0, 0, 0, 0.877);
+
+z-index: 10;
+
+height: 630px;
+
+width: 1600px;
+
+top: 0px;
+
+right: 0px;
+
+opacity: 0.6;
+
+}
+
+#uruguay {
+
+z-index: 30;
+
+position: absolute;
+
+height: 200px;
+
+width: 160px;
+
+top: 400px;
+
+left: 0px;
+
+}
